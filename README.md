@@ -7,6 +7,6 @@ As a FEA trainer, we are well aware that the most of our time is spent on the mo
  
 Few important keywords are used in Abaqus for model generation.
 
-Tutorial 1 - Bending of studs under wind pressure loading  <br />
-Tutorial 2 - Cord-rubber bending over the pulley <br />
-Tutorial 3 - Modeling of metamaterials <br />
+**Tutorial 1** - Bending of studs under wind pressure loading  [Modeling & Explanation](https://github.com/metaconsultants/Python2Abaqus-Automation-/wiki/Tutorial-1) <br />
+**Tutorial 2** - Cord-rubber bending over the pulley [Modeling & Explanation](https://github.com/metaconsultants/Python2Abaqus-Automation-/wiki/Tutorial-2) <br />
+**Tutorial 3** - Modeling of metamaterials [in progress] <br />
