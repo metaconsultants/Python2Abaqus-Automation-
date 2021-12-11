@@ -11,5 +11,8 @@ Few important keywords are used in Abaqus for model generation.
 **Tutorial 2** - Cord-rubber bending over the pulley [Modeling & Explanation](https://github.com/metaconsultants/Python2Abaqus-Automation-/wiki/Tutorial-2) <br />
 **Tutorial 3** - Modeling of metamaterials [Modeling & Explanation](https://github.com/metaconsultants/Python2Abaqus-Automation-/wiki/Tutorial-3) <br />
 **Tutorial 4** - Spring Calculator [Modeling & Explanation](https://github.com/metaconsultants/Python2Abaqus-Automation-/wiki/Tutorial-4) <br />
-**Tutorial 5** - Automated DOE & Response Surface [In Progress]  <br />
-**Tutorial 6** - Impact test [In Progress]  <br />
+**Tutorial 5** - Impact test [In Progress]  <br />
+**Tutorial 6** - Extracting useful data from odbs [In Progress]  <br />
+**Tutorial 7** - Extracting useful data from odbs [In Progress]  <br />
+**Tutorial 10** - Automated DOE & Response Surface [In Progress]  <br />
+
