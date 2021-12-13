@@ -14,7 +14,7 @@ Few important keywords are used in Abaqus for model generation.
 **Tutorial 5** - Sobol Sensitivity Analysis [Modeling & Explanation](https://github.com/metaconsultants/Python2Abaqus-Automation-/wiki/Tutorial-5) <br />
 **Tutorial 6** - Impact test [In Progress]  <br />
 **Tutorial 7** - Extracting useful data from odbs [In Progress]  <br />
-**Tutorial 8* - Submodeling techniques in Abaqus [In Progress]  <br />
+**Tutorial 8** - Submodeling techniques in Abaqus [In Progress]  <br />
 **Tutorial 9** - Material Modeling [In Progress]  <br />
 **Tutorial 10** - Automated DOE & Response Surface [In Progress]  <br />
 
