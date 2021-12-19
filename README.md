@@ -12,7 +12,7 @@ Few important keywords are used in Abaqus for model generation.
 **Tutorial 3** - Modeling of metamaterials [Modeling & Explanation](https://github.com/metaconsultants/Python2Abaqus-Automation-/wiki/Tutorial-3) <br />
 **Tutorial 4** - Spring Calculator [Modeling & Explanation](https://github.com/metaconsultants/Python2Abaqus-Automation-/wiki/Tutorial-4) <br />
 **Tutorial 5** - Sobol Sensitivity Analysis [Modeling & Explanation](https://github.com/metaconsultants/Python2Abaqus-Automation-/wiki/Tutorial-5) <br />
-**Tutorial 6** - Extracting useful data from odbs [Modeling & Explanation](https://github.com/metaconsultants/Python2Abaqus-Automation-/wiki/Tutorial-5) <br />
+**Tutorial 6** - Extracting useful data from odbs [Modeling & Explanation](https://github.com/metaconsultants/Python2Abaqus-Automation-/wiki/Tutorial-6) <br />
 **Tutorial 7** - Impact test [In Progress]  <br />
 **Tutorial 8** - Submodeling techniques in Abaqus [In Progress]  <br />
 **Tutorial 9** - Material Modeling [In Progress]  <br />
